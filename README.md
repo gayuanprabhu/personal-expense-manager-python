@@ -47,3 +47,30 @@ This project focuses on usability, validation, and clean UI behavior rather than
    git clone https://github.com/your-username/personal-expense-manager-python.git
 
 cd personal-expense-manager-python
+
+📌 Learning Outcomes
+
+Hands-on experience with Tkinter GUI development
+
+Implementing CRUD-like operations in a desktop app
+
+Input validation and error handling
+
+Managing dynamic UI updates
+
+Improving UX through small but important checks
+
+🔮 Future Enhancements
+
+Category dropdown instead of text input
+
+Edit/update existing expenses
+
+Persistent storage using SQLite
+
+Monthly expense filtering and reports
+
+👩‍💻 Author
+
+Gayatri Anil Prabhu
+B.Tech Computer Engineering | Python | Backend & API Enthusiast
